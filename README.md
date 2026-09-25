@@ -1,6 +1,6 @@
 ### Viktor Pashaiev
 
-**Senior Linux Systems, Kernel & Cloud Infrastructure Engineer (SRE)**
+**Senior Linux Systems, Kernel & Cloud Infrastructure Engineer**
 Focused on Linux kernel internals, core userspace daemons, and production reliability for distributed cloud infrastructure. 
 
 - **Launchpad**: [~steelf](https://launchpad.net/~steelf)
