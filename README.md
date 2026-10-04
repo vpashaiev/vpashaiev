@@ -6,4 +6,4 @@ Working on low-level system software, OS internals, and open-source platform mai
 - **Launchpad**: [~steelf](https://launchpad.net/~steelf)
 - **Ubuntu Discourse**: [steelf](https://discourse.ubuntu.com/u/steelf)
 - **Email**: w.paszajew@gmail.com
-- **Account**: Dedicated public account for open-source contributions and Ubuntu packaging, separated from corporate enterprise work.
+- **Account**: Dedicated public account for open-source contributions and Debian/Ubuntu packaging, separated from corporate enterprise work.
